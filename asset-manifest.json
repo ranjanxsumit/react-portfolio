@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.372dc58a.css",
+    "main.js": "/react-portfolio/static/js/main.d6a2b38f.js",
+    "static/media/hero-light.jpg": "/react-portfolio/static/media/hero-light.925954642c581d6c98cb.jpg",
+    "static/media/hero-dark.jpg": "/react-portfolio/static/media/hero-dark.d04b90f607b259834d4b.jpg",
+    "static/media/SR.png": "/react-portfolio/static/media/SR.d735a3ac5312020986e4.png",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6c3b662498b098f539a156f79b7b9901.svg",
+    "static/media/GH.svg": "/react-portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/react-portfolio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.372dc58a.css.map": "/react-portfolio/static/css/main.372dc58a.css.map",
+    "main.d6a2b38f.js.map": "/react-portfolio/static/js/main.d6a2b38f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372dc58a.css",
+    "static/js/main.d6a2b38f.js"
+  ]
+}
